@@ -1,0 +1,1 @@
+console.log("League of Legends Map Hack is active!");
